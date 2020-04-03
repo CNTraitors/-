@@ -6,3 +6,6 @@
 
 ## 事件
 - [财新网使用辱华素材做封面](https://github.com/CNTraitors/Treason-media/blob/master/%E8%B4%A2%E6%96%B0%E7%BD%91/%E8%B4%A2%E6%96%B0%E7%BD%91%E4%BD%BF%E7%94%A8%E8%BE%B1%E5%8D%8E%E7%B4%A0%E6%9D%90%E5%81%9A%E5%B0%81%E9%9D%A2.md)
+
+## 我能做什么
+- 你可以通过Issues提供更多信息
